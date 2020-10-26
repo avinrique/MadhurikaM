@@ -1,0 +1,32 @@
+.sli{
+    width: 30%;
+    height: 20%;
+    margin: auto;
+}
+body{
+    background-size: cover;
+   background-repeat: no-repeat;
+    background-image:url(https://scontent.fbir1-1.fna.fbcdn.net/v/t1.15752-9/122870015_378326679985895_6124459753485802817_n.jpg?_nc_cat=107&ccb=2&_nc_sid=ae9488&_nc_ohc=1xES_uNtdiIAX-CJ7mT&_nc_ht=scontent.fbir1-1.fna&oh=179808f76b6dd8a7389612d22bdce095&oe=5FBB9B5A)
+ }
+
+.one{
+    margin: 0 4% 0 0 ;
+     text-align: center; 
+     font-weight: bolder;
+}
+.two{
+    font-size: 1.5rem;
+    color: black;
+    margin: 3% 3% 2% 2%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: italic;
+}
+.three{
+    font-size: 2.5rem;
+    color: rgb(22, 149, 158);
+    font-weight: bolder;
+    margin: 3%;
+
+}
+9818895294
